@@ -1,7 +1,7 @@
 
 #  Simple Node Youtube Video Downloader ⭐
 
-simply by running index.js you will be greeted by a friendly node console prompt how would you like your youtube link downloaded!!
+simply by running index.js you will be greeted by a friendly node console prompt showing how would you like your youtube link downloaded!!
 
 This project uses Ytdl-core Library to Access Youtube API
 
