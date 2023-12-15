@@ -1,0 +1,14 @@
+{
+  "name": "yt-downloader-remastered",
+  "version": "1.0.0",
+  "description": "simple yt vid/aud downloader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arco",
+  "license": "ISC",
+  "dependencies": {
+    "ytdl-core": "^4.11.5"
+  }
+}
